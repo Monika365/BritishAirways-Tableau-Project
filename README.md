@@ -6,7 +6,7 @@ Welcome to my portfolio project! This end-to-end Tableau dashboard explores Brit
 
 ## 🎯 Project Purpose
 
-This project transforms raw passenger review data into a **visually compelling and interactive dashboard**. It enables users to analyze customer satisfaction across time, geography, and service categories — ideal for **airline strategy**, **marketing teams**, and **portfolio demonstration**.
+This project transforms raw passenger review data into a **visually compelling and interactive dashboard**. It enables users to analyse customer satisfaction across time, geography, and service categories — ideal for **airline strategy**, **marketing teams**, and **portfolio demonstration**.
 
 ---
 
